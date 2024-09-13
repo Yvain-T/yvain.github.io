@@ -12,7 +12,7 @@ title                    : "Yvain Tisserand, PhD"
 title_separator          : "-"
 name                     : &Yvain Tisserand"
 description              : &Senior researcher"
-url                      : https://yvain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yvain-t.github.io/yvain.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yvain-T/yvain.github.io"
 
